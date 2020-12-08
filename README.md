@@ -1,5 +1,5 @@
-# test
+# Practice files for data science.
 
 ## Hello
 
-This is my first repository.
+This repository is for daily practice with python. 
