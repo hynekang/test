@@ -1,5 +1,5 @@
-# Practice files for data science.
+# Practicees
 
 ## Hello
 
-This repository is for daily practice with python. 
+This repository is for daily practice for web development.
